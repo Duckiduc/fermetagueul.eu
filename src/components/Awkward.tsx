@@ -84,7 +84,7 @@ const summary = [
 const valueFormatter = (number: number) =>
   `${Intl.NumberFormat("us").format(number).toString()}`;
 
-const statusColor = {
+const statusColor: { [key: string]: string } = {
   Genant: "bg-blue-500",
   TonSilence: "bg-violet-500",
 };
