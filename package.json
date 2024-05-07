@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@headlessui/react": "^1.7.19",
+    "@headlessui/react": "^2.0.1",
     "@headlessui/tailwindcss": "^0.2.0",
     "@remixicon/react": "^4.2.0",
     "@tremor/react": "^3.16.2",
