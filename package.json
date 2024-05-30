@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@headlessui/react": "^2.0.3",
-    "@headlessui/tailwindcss": "^0.2.0",
+    "@headlessui/tailwindcss": "^0.2.1",
     "@remixicon/react": "^4.2.0",
     "@tremor/react": "^3.17.2",
     "next": "14.2.3",
